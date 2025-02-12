@@ -37,7 +37,7 @@ This project is an AI-powered web scraper built with Streamlit. It allows users 
 
 ## Project Structure
 
-- [main.py](http://_vscodecontentref_/1): The main Streamlit application file.
+- [main.py](https://github.com/kusayvarde/AI-web-scraping/blob/main/main.py): The main Streamlit application file.
 - [scrape.py](http://_vscodecontentref_/2): Contains functions for scraping and cleaning website content.
 - [parse.py](http://_vscodecontentref_/3): Contains functions for parsing the DOM content.
 
